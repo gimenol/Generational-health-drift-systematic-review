@@ -10,4 +10,4 @@ Gimeno L, Moreno-Agostino D, Danka M, Guo Y, Goisis A, Dowd JB and Ploubidis GB 
 - List of papers excluded from systematic review at the full-paper screening stage
 - Data extraction from included studies
 - Quality assessment from included studies
-- Summary of evidence from published papers on trends in age-adjusted, age-specific or age-standardised incindence
+- Summary of evidence from published papers on trends in age-adjusted, age-specific or age-standardised incidence
